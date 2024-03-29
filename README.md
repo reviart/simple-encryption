@@ -1,6 +1,6 @@
 # Simple Encryption (AES-256-CBC)
 
-This repo can be used for 2 ways realtime communication for short encryption.
+This repo can be used for 2 ways realtime communication for short time encryption.
 
 How to use this repo for encryption?
 ```shell
